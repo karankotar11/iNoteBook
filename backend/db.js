@@ -1,5 +1,6 @@
 
-const mongoose=require('mongoose');
+// const mongoose=require('mongoose');
+import mongoose from 'mongoose';
 
 const mongoURI="mongodb+srv://karankotar11:67B0dLWuu027xfTU@karan.ezthbnv.mongodb.net/iNoteBook";
 //const mongoURI="mongodb://localhost:27017/iNoteBook";
